@@ -1,4 +1,4 @@
-#from Waterloo's CCC Contest :,(
+#from Waterloo's CCC Contest:
 def arrivaltime(a):
     x = a.split(":")
     hourmin = []
@@ -30,8 +30,6 @@ def arrivaltime(a):
             e = hourmin[2]*2-60
             print(str(d) + ":" + str(e))
 
-
-
-
+            
 
 arrivaltime("07:00")
