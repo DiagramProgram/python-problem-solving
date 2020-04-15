@@ -22,4 +22,5 @@ for i in range(0, n):
             even += each
         else:
             odd += each'''
+    
     print(even + " " + odd)
