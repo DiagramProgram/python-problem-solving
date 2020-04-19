@@ -35,5 +35,3 @@ n = int(input())
 for each in range(n):
     e, name = input().split()
     securedoors(n, e, name)
-    
-    
