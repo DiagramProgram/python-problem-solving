@@ -1,5 +1,6 @@
 nom = []
 log = []
+
 def securedoors(n, e, name):
     if e == "entry" and nom.count(name) == 0:
         print(name + " entered")
