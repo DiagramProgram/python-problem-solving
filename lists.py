@@ -24,6 +24,5 @@ def lists(n):
         elif x == "reverse":
             arry.reverse()
 
-
 n = int(input())
 lists(n)
