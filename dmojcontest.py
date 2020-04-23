@@ -62,7 +62,6 @@ def mavsContest(l1, l2):
         yc = "%.6f" % ycoord
         print(str(xc) + " " + str(yc))
 
-
 l1 = input()
 l2 = input()
 mavsContest(l1, l2)
