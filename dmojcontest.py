@@ -22,7 +22,6 @@ def mavsContest(l1, l2):
             b1 = 0
         #print(b1)
 
-
     #same thing for second line
     l2x1, l2y1, l2x2, l2y2 = map(int, l2.split())
 
