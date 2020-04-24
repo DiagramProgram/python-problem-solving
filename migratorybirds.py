@@ -16,7 +16,6 @@ def migratoryBirds(arr):
         m = min(locay)
         print(m+1)
 
-
 arr_count = int(input().strip())
 arr = list(map(int, input().rstrip().split()))
 migratoryBirds(arr)
